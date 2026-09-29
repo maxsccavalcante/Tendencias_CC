@@ -1,4 +1,4 @@
-🌱 AgroSearch — Motor de Busca Inteligente
+AgroSearch — Motor de Busca Inteligente
 
 Laboratório Prático 04 (Desafio Integrador) · Tópicos Avançados 
 
